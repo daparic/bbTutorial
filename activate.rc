@@ -1,0 +1,2 @@
+export PATH=~/src/bitbake/bitbake/bin:$PATH
+export PYTHONPATH=~/src/bitbake/bitbake/lib:$PYTHONPATH
